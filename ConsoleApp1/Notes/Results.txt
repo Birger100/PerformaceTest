@@ -1,0 +1,15 @@
+	2021-08-31 - Local
+------- start of run 1 ---------------
+22:01:59 Time 1 : 26623
+------- end of run 1 ---------------
+
+22:01:59 Starting Cleanup
+22:02:11 Cleanup Done : 11470
+
+------- start of run 2 ---------------
+22:02:27 Time 2 : 15676
+------- end of run 2 ---------------
+
+22:02:27 Starting Cleanup
+22:02:39 Cleanup Done : 11596
+

@@ -54,6 +54,8 @@ namespace ConsoleApp1
             CleanUpEmails();
             Console.ReadLine();
 
+
+
         }
 
         private EmailAddress DoSomethingToMail(EmailAddress email)
